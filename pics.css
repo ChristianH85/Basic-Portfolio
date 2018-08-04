@@ -1,0 +1,28 @@
+.pict{
+    
+    float:middle;
+    padding: 0px;
+    margin: 0px;
+    width:33.333%;
+    height:300px;
+    filter: grayscale(80%);
+    border-radius: 50%;
+    border: solid 10px rgb(53, 39, 10);
+    
+}
+
+.d{
+    position:absolute;
+    left: 0;
+    bottom: 0;
+    background-color: antiquewhite;
+}
+
+.pbox{
+    box-sizing: border-box;
+    width: 33.33%;
+    display:block;
+    position: relative;
+    left:0;
+    bottom:0;
+}
